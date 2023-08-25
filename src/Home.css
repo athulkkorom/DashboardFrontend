@@ -1,0 +1,13 @@
+.firstpage{
+    padding-left: 20px;
+}
+.main{
+    display: flex;
+}
+.sidebars {
+    width: 220px;
+    height: 12350px;
+    background-color: gray;
+    padding-top: 5px;
+    
+  }
